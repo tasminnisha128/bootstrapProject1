@@ -44,3 +44,15 @@
       font-size: 50px;
   }
 /*carousel ends*/ 
+
+/* Best Services start */
+.best-services{
+    margin-top: 150px;
+    margin-left: 50px;
+    display: flex;
+    gap: 0px;
+    align-items: center;
+    justify-content: space-around;
+}
+ 
+/* best services end */
